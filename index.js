@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Hard Work","Join HardenFamily"];
+const statusMessages = ["Working...","Loading..."];
 
 
 let currentIndex = 0;
